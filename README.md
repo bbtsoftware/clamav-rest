@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer actively maintained.
+> No further updates or support are planned.
+
 # Table of Contents
 
 - [Introduction](#introduction)
